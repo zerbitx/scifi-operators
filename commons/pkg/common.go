@@ -10,3 +10,7 @@ func MakeShip(name, class string) *v1alpha1.Ship {
 		Class: class,
 	}
 }
+
+func Useless() {
+	// Do nothing
+}

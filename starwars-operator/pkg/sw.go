@@ -8,3 +8,5 @@ import (
 func GetShip() *commons.Ship {
 	return v1alpha1.XWing()
 }
+
+func Useless() {}

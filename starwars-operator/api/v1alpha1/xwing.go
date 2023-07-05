@@ -8,3 +8,7 @@ import (
 func XWing() *v1alpha1.Ship {
 	return pkg.MakeShip("X-Wing", "Starfighter")
 }
+
+func UseUseless() {
+	pkg.Useless()
+}

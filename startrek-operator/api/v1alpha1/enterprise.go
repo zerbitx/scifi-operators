@@ -8,3 +8,7 @@ import (
 func Enterprise() *types.Ship {
 	return pkg.MakeShip("Enterprise", "Galaxy")
 }
+
+func UseUseless() {
+	pkg.Useless()
+}
