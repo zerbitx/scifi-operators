@@ -1,7 +1,7 @@
 package v1alpha1
 
 import (
-	"github.com/zerbitx/scifi-operators/commons/pkg"
+	"github.com/zerbitx/scifi-operators/commons/pkg/utils"
 )
 
 type Ship struct {
@@ -10,5 +10,5 @@ type Ship struct {
 }
 
 func UseUseless() {
-	pkg.Useless()
+	utils.Blah("test")
 }

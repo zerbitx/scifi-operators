@@ -3,6 +3,7 @@ package v1alpha1
 import (
 	"github.com/zerbitx/scifi-operators/commons/api/v1alpha1"
 	"github.com/zerbitx/scifi-operators/commons/pkg"
+	"github.com/zerbitx/scifi-operators/commons/pkg/utils"
 )
 
 func XWing() *v1alpha1.Ship {
@@ -10,5 +11,5 @@ func XWing() *v1alpha1.Ship {
 }
 
 func UseUseless() {
-	pkg.Useless()
+	utils.Blah("test")
 }
