@@ -1,0 +1,4 @@
+github.com/zerbitx/scifi-operators/commons v0.0.0-20230705203653-03474eb64713 h1:jLa+1UjQIAIVEhzqyMoiDwF1fnoD6wm7Jb+cvYw3uIg=
+github.com/zerbitx/scifi-operators/commons v0.0.0-20230705203653-03474eb64713/go.mod h1:PMarFVIbTOSGTIVvA1sOSVYRUArBFQ2o+zKX7yvqHHU=
+github.com/zerbitx/scifi-operators/commons/api v0.0.1 h1:M3lIPwCFtsjzyPfjmZGwoEzFC2MQ9jdgJ73fO4d9NXQ=
+github.com/zerbitx/scifi-operators/commons/api v0.0.1/go.mod h1:h1bgPjuqPZ4rj4lfvdIPViD/rQZnMmKavv2zMxf4d6k=
